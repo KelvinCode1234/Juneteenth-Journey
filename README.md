@@ -42,3 +42,7 @@ Juneteenth (June 19th) commemorates the end of slavery in the United States. Thi
 
 ## License
 MIT © Precious Kelvin 2025
+
+---
+
+Created for [DEV's Frontend Challenge](https://dev.to/challenges/frontend-2025-06-04)
