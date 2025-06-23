@@ -23,7 +23,7 @@
 
 1. Clone repo:
 ```bash
-git clone https://github.com/yourusername/juneteenth-journey.git
+git clone https://github.com/KelvinCode1234/Juneteenth-Journey.git
 ```
 
 ---
