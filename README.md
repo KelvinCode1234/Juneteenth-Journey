@@ -2,7 +2,7 @@
 
 **An interactive landing page celebrating Juneteenth - Freedom Day**
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://kelvincode1234.github.io/Juneteenth-Journey/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ## Features
