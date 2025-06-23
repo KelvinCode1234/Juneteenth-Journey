@@ -24,10 +24,11 @@
 1. Clone repo:
 ```bash
 git clone https://github.com/yourusername/juneteenth-journey.git
+```
 
 ---
 
-2. Open index.html in browser
+2. Open **index.html** in browser
 
 ## Why Juneteenth?
 
