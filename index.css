@@ -80,6 +80,22 @@ nav {
   z-index: 100;
 }
 
+.logo {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.logo h3 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 0.8rem;
+  padding-top: 15px;
+  margin: 0;
+  text-transform: uppercase;
+  color: var(--primary);
+}
+
 .logo img {
   width: 45px;
   height: 45px;
@@ -127,7 +143,7 @@ nav {
 
 .hero h2 {
   font-family: var(--font-heading);
-  font-size: 2.5rem;
+  font-size: 2.2rem;
   margin-bottom: 1.5rem;
   color: var(--primary);
 }
@@ -423,6 +439,7 @@ footer {
 .footer-column h3 {
   font-family: var(--font-heading);
   margin-bottom: 1.5rem;
+  user-select: none;
   position: relative;
   display: inline-block;
 }
@@ -435,6 +452,10 @@ footer {
   width: 50%;
   height: 2px;
   background-color: var(--primary);
+}
+
+.footer-column p {
+  user-select: none;
 }
 
 .footer-links {
@@ -484,8 +505,9 @@ footer {
   margin-top: 3rem;
   padding-top: 1.5rem;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
-  font-size: 0.9rem;
-  color: #aaa;
+  font-size: 0.7rem;
+  user-select: none;
+  color: #ffffff;
 }
 
 /* Animations */
